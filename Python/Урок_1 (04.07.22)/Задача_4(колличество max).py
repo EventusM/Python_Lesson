@@ -13,7 +13,7 @@ while a > 0:
     if b == max_num:
         kol_num += 1
     a = a // 10
-print(f'Наибольшая цифра в числе - {numbers} \nРавна - {max_num} \nКолличество максимальных чисел - {kol_num}\n')
+print(f'Наибольшая цифра в числе {numbers} \nРавна - {max_num} \nКолличество максимальных чисел - {kol_num}\n')
 
 
 
